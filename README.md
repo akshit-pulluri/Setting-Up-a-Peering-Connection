@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/63d9f9ed-3b8b-4b99-9590-670b00a625f9)# Setting-Up-a-Peering-Connection
+# Setting-Up-a-Peering-Connection
 
 ### Challenge Overview:
 Organizations often operate multiple Amazon Virtual Private Clouds (VPCs) to isolate and manage resources securely. However, a common challenge arises when communication is needed between these VPCs to share data or access services. The challenge was to establish secure, low-latency connectivity while maintaining network isolation and adhering to AWS best practices for routing and security.
