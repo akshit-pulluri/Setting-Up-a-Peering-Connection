@@ -64,8 +64,9 @@ ________________________________________
  ![image](https://github.com/user-attachments/assets/4ec11377-595d-4bd8-901a-da9f03f8ba26)
 
 5.	Now repeat the same steps for creating second route table for second vpc and name it (ex: vpc_2) and attach it to second created vpc i.e., vpc_2.
- ![image](https://github.com/user-attachments/assets/986365e5-0431-4daf-a1a0-317ce54f6c68)
-![image](https://github.com/user-attachments/assets/c204281c-35ed-4216-9559-3a6d2a543b86)
+ 
+  ![image](https://github.com/user-attachments/assets/986365e5-0431-4daf-a1a0-317ce54f6c68)
+  ![image](https://github.com/user-attachments/assets/c204281c-35ed-4216-9559-3a6d2a543b86)
 
  
 ________________________________________
@@ -78,13 +79,15 @@ ________________________________________
  ![image](https://github.com/user-attachments/assets/1adc1197-96e8-4161-90ac-d83dab48047e)
 
 4.	Configure the subnet settings such as provide a subnet name (for ex: subnet_vpc_1_1a) and select the availability zone and provide CIDR block.
+
  ![image](https://github.com/user-attachments/assets/8daff111-bb16-462c-83c3-54db7e5b8371)
 
 5.	Click on Create Subnet.
  ![image](https://github.com/user-attachments/assets/400806ad-9b05-4cdb-bf6c-3f5922a54b82)
 
 6.	Now repeat the same steps for creating second subnet for second vpc and configure the subnet details such as name, availability zone and CIDR block.
- ![image](https://github.com/user-attachments/assets/ebb0eff8-ff72-4368-bb9c-e90b2660bd94)
+
+![image](https://github.com/user-attachments/assets/ebb0eff8-ff72-4368-bb9c-e90b2660bd94)
 ![image](https://github.com/user-attachments/assets/30621d42-6d1f-4b0f-85fa-7903daf1b849)
 ![image](https://github.com/user-attachments/assets/c45958d2-5f3b-4740-841d-499cca791f48)
 
@@ -124,7 +127,8 @@ ________________________________________
  ![image](https://github.com/user-attachments/assets/69ddddb8-9b83-4e06-b3b7-a50df3a1d8d9)
 
 7.	Now repeat the same steps for creating internet gateway for second vpc by naming it (ex: igw_vpc_2) and attach it to second vpc i.e., vpc_2.
- ![image](https://github.com/user-attachments/assets/4350bbd3-7b80-44d8-b9a5-868656b92870)
+ 
+![image](https://github.com/user-attachments/assets/4350bbd3-7b80-44d8-b9a5-868656b92870)
 ![image](https://github.com/user-attachments/assets/3ab24048-d9f3-4d2a-9baf-5b65798f2c90)
 
  
@@ -196,7 +200,8 @@ ________________________________________
  ![image](https://github.com/user-attachments/assets/ea20265f-5f0b-456b-822f-7ba26752c7dc)
 
 7.	Select Actions and accept the request.
- ![image](https://github.com/user-attachments/assets/2a5cb1d9-dfd7-4596-bd1b-ef1e4f83810f)
+ 
+   ![image](https://github.com/user-attachments/assets/2a5cb1d9-dfd7-4596-bd1b-ef1e4f83810f)
 
 8.	Click on Modify my route tables now.
  ![image](https://github.com/user-attachments/assets/e53b4d07-4c31-4c77-8aac-afd5e476dc1c)
