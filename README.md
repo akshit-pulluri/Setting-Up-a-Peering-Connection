@@ -8,6 +8,9 @@ Organizations often operate multiple Amazon Virtual Private Clouds (VPCs) to iso
 2.	Enable Subnet Accessibility: Ensure all subnets in VPC_2 are fully accessible from VPC_1, facilitating efficient inter-VPC communication.
 3.	Maintain isolation and security: Ensure that VPC_1 and VPC_2 remain logically and physically isolated, minimizing the risk of security breaches.
 
+### Solution Overview:
+To enable secure and efficient communication between two Amazon Virtual Private Clouds (VPCs), I have implemented a VPC peering connection between VPC_1 and VPC_2. This solution allows all subnets in VPC_2 to be accessible from VPC_1 without overlapping CIDR ranges. The solution involved creating a VPC peering connection, updating route tables and configuring security groups to allow inbound and outbound traffic between the VPCs. By adhering to best practices for security and isolation, this configuration ensures seamless data exchange.
+
 ### Optimization strategies:
 *	Optimize Network Configuration: Simplify network architecture by leveraging VPC peering.
 *	Minimize Costs: Implement an efficient setup that minimizes data transfer costs and avoids unnecessary resource usage.
